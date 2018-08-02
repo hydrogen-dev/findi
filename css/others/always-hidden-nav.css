@@ -1,0 +1,84 @@
+.nav-menus-wrapper {
+    overflow-x: hidden;
+}
+
+.btn-show {
+    background-color: #27ae60;
+    border: medium none;
+    color: #fff;
+    cursor: pointer;
+    float: right;
+    margin-top: 12px;
+    padding: 10px 20px;
+    -webkit-transition: background 0.3s ease 0s;
+    transition: background 0.3s ease 0s;
+}
+
+.btn-show:hover {
+    background-color: #27ae60;
+}
+
+.info {
+    padding-left: 15px;
+    color: #333;
+    font-size: 13px;
+    text-align: center;
+}
+
+.info span {
+    text-decoration: underline;
+}
+
+.zoom-in {
+    -webkit-animation: zoomIn 400ms ease both;
+    animation: zoomIn 400ms ease both;
+}
+
+@-webkit-keyframes zoomIn {
+    0% {
+        -webkit-transform: scale(.6);
+    }
+    100% {
+        -webkit-transform: scale(1);
+    }
+}
+
+@keyframes zoomIn {
+    0% {
+        -webkit-transform: scale(.6);
+        transform: scale(.6);
+    }
+    100% {
+        -webkit-transform: scale(1);
+        transform: scale(1);
+    }
+}
+
+.zoom-out {
+    -webkit-animation: zoomOut 400ms ease both;
+    animation: zoomOut 400ms ease both;
+}
+
+@-webkit-keyframes zoomOut {
+    0% {
+        -webkit-transform: scale(1);
+    }
+    100% {
+        -webkit-transform: scale(.6);
+    }
+}
+
+@keyframes zoomOut {
+    0% {
+        -webkit-transform: scale(1);
+        transform: scale(1);
+    }
+    100% {
+        -webkit-transform: scale(.6);
+        transform: scale(.6);
+    }
+}
+
+.navigation7 {
+    background-color: #27ae60;
+}

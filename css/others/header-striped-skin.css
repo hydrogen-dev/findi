@@ -1,0 +1,23 @@
+.nav-menu > li:hover > a,
+.nav-menu > li.active > a,
+.nav-menu > li.focus > a {
+    color: #fff;
+    background-color: #27ae60
+}
+
+.nav-menu > li:hover > a .submenu-indicator-chevron,
+.nav-menu > li.active > a .submenu-indicator-chevron,
+.nav-menu > li.focus > a .submenu-indicator-chevron {
+    border-color: transparent #fff #fff transparent
+}
+
+.nav-dropdown > li:hover > a,
+.nav-dropdown > li.focus > a {
+    color: #fff;
+    background-color: #27ae60
+}
+
+.nav-dropdown > li:hover > a .submenu-indicator-chevron,
+.nav-dropdown > li.focus > a .submenu-indicator-chevron {
+    border-color: transparent #fff #fff transparent
+}

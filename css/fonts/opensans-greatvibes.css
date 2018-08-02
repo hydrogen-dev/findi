@@ -1,0 +1,41 @@
+/* Import poppins fonts */
+
+@import url('https://fonts.googleapis.com/css?family=Great+Vibes|Open+Sans:300,600,700');
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+a,
+a:hover,
+a:focus,
+a:active,
+li,
+ol {
+    font-family: 'Open Sans', sans-serif !important;
+}
+
+.font-greatvibes,
+.spa_section_heading h2 {
+    font-family: 'Great Vibes', cursive !important;
+    font-weight: 400;
+    font-size: 40px;
+}
+
+.spa_cta_text h3 {
+    font-family: 'Great Vibes', cursive !important;
+}
+
+.greatvibes-fonts {
+    font-family: 'Great Vibes', cursive !important;
+}
+
+.restaurant.section_heading h2 {
+    font-family: 'Great Vibes', cursive !important;
+    font-weight: 400;
+    font-size: 30px;
+    margin-bottom: 5px;
+}

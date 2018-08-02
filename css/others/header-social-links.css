@@ -1,0 +1,7 @@
+.custom a {
+    border-left: solid 1px #f0f0f0;
+}
+
+.navigation-portrait .custom a {
+    border: none;
+}

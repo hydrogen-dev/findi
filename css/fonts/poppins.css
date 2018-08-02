@@ -1,0 +1,40 @@
+/* Import poppins fonts */
+
+@import url('https://fonts.googleapis.com/css?family=Poppins:300,500,700');
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+a,
+a:hover,
+a:focus,
+a:active,
+li,
+ol {
+    font-family: 'Poppins', sans-serif;
+}
+
+body,
+p {
+    font-weight: 300;
+    line-height: 1.5;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+a,
+a:hover,
+a:focus,
+a:active,
+li,
+ol {
+    font-weight: 500;
+}

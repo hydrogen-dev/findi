@@ -1,0 +1,38 @@
+/* ------------------------------------------------------
+:: Template Name: Classy - Multipurpose Template
+:: Author: Designing World
+:: Author URL: https://wrapbootstrap.com/user/DesigningWorld
+:: Description: Classy is a complete multi-functional template. It's creative and clean design. It's has huge collection of templates for Business, Agency, Startup, App Landing, Product Landing, Service Landing, Hosting & Technology, Restaurant, Freelancer, Resume & CV, Portfolios, Education, Spa & Beauty, Photography, Fitness & Gym.
+:: Version: 2.1.0
+------------------------------------------------------ */
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.floatleft {
+    float: left
+}
+
+.floatright {
+    float: right
+}
+
+.alignleft {
+    float: left;
+    margin-right: 15px;
+}
+
+.alignright {
+    float: right;
+    margin-left: 15px;
+}
+
+.aligncenter {
+    display: block;
+    margin: 0 auto 15px;
+}
+
+
+/* Place your custom css code here */

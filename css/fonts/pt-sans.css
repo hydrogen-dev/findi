@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=PT+Sans:400,700');
+body {
+    font-family: 'PT Sans', sans-serif !important;
+}
+
+p,
+ul li,
+ol li {
+    font-weight: 400;
+    color: #111;
+}
+
+a,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: 700;
+}

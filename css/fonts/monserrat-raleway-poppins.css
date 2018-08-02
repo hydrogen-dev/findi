@@ -1,0 +1,29 @@
+/* Import Questrial & Lato Fonts */
+
+@import url('https://fonts.googleapis.com/css?family=Montserrat:500,700|Poppins:300|Raleway');
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+a,
+a:hover,
+a:focus,
+a:active {
+    font-family: 'Poppins', sans-serif;
+}
+
+body,
+p,
+li,
+ol {
+    font-family: 'Poppins', sans-serif;
+}
+
+.raleway-fonts {
+    font-family: 'Raleway', sans-serif;
+}

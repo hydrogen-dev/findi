@@ -1,0 +1,659 @@
+@font-face {
+  font-family: 'classyicon';
+  src:  url('../../fonts/classyicon.eot?34wgav');
+  src:  url('../../fonts/classyicon.eot?34wgav#iefix') format('embedded-opentype'),
+    url('../../fonts/classyicon.ttf?34wgav') format('truetype'),
+    url('../../fonts/classyicon.woff?34wgav') format('woff'),
+    url('../../fonts/classyicon.svg?34wgav#classyicon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="ci-"], [class*=" ci-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'classyicon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.ci-abc:before {
+  content: "\e900";
+}
+.ci-weight-scale:before {
+  content: "\e901";
+}
+.ci-album:before {
+  content: "\e902";
+}
+.ci-album-1:before {
+  content: "\e903";
+}
+.ci-album-2:before {
+  content: "\e904";
+}
+.ci-album-pause:before {
+  content: "\e905";
+}
+.ci-albums:before {
+  content: "\e906";
+}
+.ci-apple:before {
+  content: "\e907";
+}
+.ci-arc:before {
+  content: "\e908";
+}
+.ci-arc-1:before {
+  content: "\e909";
+}
+.ci-arc-de-triomphe:before {
+  content: "\e90a";
+}
+.ci-arc-de-triomphe-1:before {
+  content: "\e90b";
+}
+.ci-archive:before {
+  content: "\e90c";
+}
+.ci-arc-of-triomphe:before {
+  content: "\e90d";
+}
+.ci-arroba:before {
+  content: "\e90e";
+}
+.ci-auction:before {
+  content: "\e90f";
+}
+.ci-avatar-inside-a-circle:before {
+  content: "\e910";
+}
+.ci-backpack:before {
+  content: "\e911";
+}
+.ci-balance:before {
+  content: "\e912";
+}
+.ci-balloons:before {
+  content: "\e913";
+}
+.ci-bamboo:before {
+  content: "\e914";
+}
+.ci-bar-chart:before {
+  content: "\e915";
+}
+.ci-bathtub:before {
+  content: "\e916";
+}
+.ci-bed:before {
+  content: "\e917";
+}
+.ci-blackboard:before {
+  content: "\e918";
+}
+.ci-bolt:before {
+  content: "\e919";
+}
+.ci-bouquet:before {
+  content: "\e91a";
+}
+.ci-brain:before {
+  content: "\e91b";
+}
+.ci-briefcase:before {
+  content: "\e91c";
+}
+.ci-calculator:before {
+  content: "\e91d";
+}
+.ci-calendar:before {
+  content: "\e91e";
+}
+.ci-cancel:before {
+  content: "\e91f";
+}
+.ci-candle:before {
+  content: "\e920";
+}
+.ci-car:before {
+  content: "\e921";
+}
+.ci-cardiogram:before {
+  content: "\e922";
+}
+.ci-carrot:before {
+  content: "\e923";
+}
+.ci-checked:before {
+  content: "\e924";
+}
+.ci-clip:before {
+  content: "\e925";
+}
+.ci-clipboard:before {
+  content: "\e926";
+}
+.ci-cloud:before {
+  content: "\e927";
+}
+.ci-cloud-2:before {
+  content: "\e928";
+}
+.ci-compact-disk:before {
+  content: "\e929";
+}
+.ci-computer:before {
+  content: "\e92a";
+}
+.ci-computer-1:before {
+  content: "\e92b";
+}
+.ci-cream:before {
+  content: "\e92c";
+}
+.ci-credit-card:before {
+  content: "\e92d";
+}
+.ci-cup:before {
+  content: "\e92e";
+}
+.ci-database:before {
+  content: "\e92f";
+}
+.ci-diamond:before {
+  content: "\e930";
+}
+.ci-diamond-1:before {
+  content: "\e931";
+}
+.ci-diamond-ring:before {
+  content: "\e932";
+}
+.ci-diploma:before {
+  content: "\e933";
+}
+.ci-dna:before {
+  content: "\e934";
+}
+.ci-download:before {
+  content: "\e935";
+}
+.ci-drop:before {
+  content: "\e936";
+}
+.ci-earth-globe:before {
+  content: "\e937";
+}
+.ci-edit:before {
+  content: "\e938";
+}
+.ci-email:before {
+  content: "\e939";
+}
+.ci-email-1:before {
+  content: "\e93a";
+}
+.ci-export:before {
+  content: "\e93b";
+}
+.ci-eye:before {
+  content: "\e93c";
+}
+.ci-facebook:before {
+  content: "\e93d";
+}
+.ci-facebook-logo:before {
+  content: "\e93e";
+}
+.ci-facebook-circular:before {
+  content: "\e93f";
+}
+.ci-fast-forward:before {
+  content: "\e940";
+}
+.ci-finances:before {
+  content: "\e941";
+}
+.ci-first-aid-kit:before {
+  content: "\e942";
+}
+.ci-fishes:before {
+  content: "\e943";
+}
+.ci-flask:before {
+  content: "\e944";
+}
+.ci-flip-flops:before {
+  content: "\e945";
+}
+.ci-folder:before {
+  content: "\e946";
+}
+.ci-footprint:before {
+  content: "\e947";
+}
+.ci-forbidden:before {
+  content: "\e948";
+}
+.ci-garbage:before {
+  content: "\e949";
+}
+.ci-gift:before {
+  content: "\e94a";
+}
+.ci-gifts:before {
+  content: "\e94b";
+}
+.ci-googleplus-circular:before {
+  content: "\e94c";
+}
+.ci-graphic:before {
+  content: "\e94d";
+}
+.ci-group:before {
+  content: "\e94e";
+}
+.ci-hairdryer:before {
+  content: "\e94f";
+}
+.ci-handshake:before {
+  content: "\e950";
+}
+.ci-heart:before {
+  content: "\e951";
+}
+.ci-helicopter:before {
+  content: "\e952";
+}
+.ci-hot-stones:before {
+  content: "\e953";
+}
+.ci-hourglass:before {
+  content: "\e954";
+}
+.ci-ice-tea:before {
+  content: "\e955";
+}
+.ci-classy:before {
+  content: "\e956";
+}
+.ci-idea:before {
+  content: "\e957";
+}
+.ci-images:before {
+  content: "\e958";
+}
+.ci-import:before {
+  content: "\e959";
+}
+.ci-incense:before {
+  content: "\e95a";
+}
+.ci-info:before {
+  content: "\e95b";
+}
+.ci-information:before {
+  content: "\e95c";
+}
+.ci-intestine:before {
+  content: "\e95d";
+}
+.ci-kidneys:before {
+  content: "\e95e";
+}
+.ci-label-outline:before {
+  content: "\e95f";
+}
+.ci-lamp:before {
+  content: "\e960";
+}
+.ci-laptop:before {
+  content: "\e961";
+}
+.ci-leaf:before {
+  content: "\e962";
+}
+.ci-lesson:before {
+  content: "\e963";
+}
+.ci-library:before {
+  content: "\e964";
+}
+.ci-light-bulb:before {
+  content: "\e965";
+}
+.ci-like:before {
+  content: "\e966";
+}
+.ci-link:before {
+  content: "\e967";
+}
+.ci-linkedin-logo:before {
+  content: "\e968";
+}
+.ci-liver:before {
+  content: "\e969";
+}
+.ci-login:before {
+  content: "\e96a";
+}
+.ci-loupe:before {
+  content: "\e96b";
+}
+.ci-love-letter:before {
+  content: "\e96c";
+}
+.ci-lungs:before {
+  content: "\e96d";
+}
+.ci-maintenance:before {
+  content: "\e96e";
+}
+.ci-mask:before {
+  content: "\e96f";
+}
+.ci-massage:before {
+  content: "\e970";
+}
+.ci-medicine:before {
+  content: "\e971";
+}
+.ci-megaphone:before {
+  content: "\e972";
+}
+.ci-microphone:before {
+  content: "\e973";
+}
+.ci-microscope:before {
+  content: "\e974";
+}
+.ci-minimize:before {
+  content: "\e975";
+}
+.ci-molecule:before {
+  content: "\e976";
+}
+.ci-money:before {
+  content: "\e977";
+}
+.ci-mortar:before {
+  content: "\e978";
+}
+.ci-mortarboard:before {
+  content: "\e979";
+}
+.ci-move:before {
+  content: "\e97a";
+}
+.ci-museum:before {
+  content: "\e97b";
+}
+.ci-music-album:before {
+  content: "\e97c";
+}
+.ci-nail-polish:before {
+  content: "\e97d";
+}
+.ci-newlyweds:before {
+  content: "\e97e";
+}
+.ci-newspaper:before {
+  content: "\e97f";
+}
+.ci-next:before {
+  content: "\e980";
+}
+.ci-office-block:before {
+  content: "\e981";
+}
+.ci-open-book:before {
+  content: "\e982";
+}
+.ci-paint-palette:before {
+  content: "\e983";
+}
+.ci-paper-plane:before {
+  content: "\e984";
+}
+.ci-pause:before {
+  content: "\e985";
+}
+.ci-pen:before {
+  content: "\e986";
+}
+.ci-pharmacy:before {
+  content: "\e987";
+}
+.ci-phone-call:before {
+  content: "\e988";
+}
+.ci-photo-1-camera:before {
+  content: "\e989";
+}
+.ci-photo-album:before {
+  content: "\e98a";
+}
+.ci-photo-camera:before {
+  content: "\e98b";
+}
+.ci-physics:before {
+  content: "\e98c";
+}
+.ci-piggy-bank:before {
+  content: "\e98d";
+}
+.ci-pinterest:before {
+  content: "\e98e";
+}
+.ci-pinterest-circle:before {
+  content: "\e98f";
+}
+.ci-plus:before {
+  content: "\e990";
+}
+.ci-power-button:before {
+  content: "\e991";
+}
+.ci-presentation:before {
+  content: "\e992";
+}
+.ci-puzzle:before {
+  content: "\e993";
+}
+.ci-qr-code:before {
+  content: "\e994";
+}
+.ci-quaver:before {
+  content: "\e995";
+}
+.ci-quaver-1:before {
+  content: "\e996";
+}
+.ci-question:before {
+  content: "\e997";
+}
+.ci-quill:before {
+  content: "\e998";
+}
+.ci-refresh:before {
+  content: "\e999";
+}
+.ci-relaxing:before {
+  content: "\e99a";
+}
+.ci-renewable:before {
+  content: "\e99b";
+}
+.ci-renren-logo:before {
+  content: "\e99c";
+}
+.ci-right-arrow:before {
+  content: "\e99d";
+}
+.ci-ring:before {
+  content: "\e99e";
+}
+.ci-ring-1:before {
+  content: "\e99f";
+}
+.ci-ruler:before {
+  content: "\e9a0";
+}
+.ci-run-album:before {
+  content: "\e9a1";
+}
+.ci-sauna:before {
+  content: "\e9a2";
+}
+.ci-scent:before {
+  content: "\e9a3";
+}
+.ci-school:before {
+  content: "\e9a4";
+}
+.ci-school-bus:before {
+  content: "\e9a5";
+}
+.ci-server:before {
+  content: "\e9a6";
+}
+.ci-settings:before {
+  content: "\e9a7";
+}
+.ci-share:before {
+  content: "\e9a8";
+}
+.ci-shield:before {
+  content: "\e9a9";
+}
+.ci-shopping-cart:before {
+  content: "\e9aa";
+}
+.ci-shower:before {
+  content: "\e9ab";
+}
+.ci-smartphone:before {
+  content: "\e9ac";
+}
+.ci-smartphone-1:before {
+  content: "\e9ad";
+}
+.ci-spa:before {
+  content: "\e9ae";
+}
+.ci-speedometer:before {
+  content: "\e9af";
+}
+.ci-stethoscope:before {
+  content: "\e9b0";
+}
+.ci-stomach:before {
+  content: "\e9b1";
+}
+.ci-stopclock:before {
+  content: "\e9b2";
+}
+.ci-suitcase:before {
+  content: "\e9b3";
+}
+.ci-support:before {
+  content: "\e9b4";
+}
+.ci-swimming-pool:before {
+  content: "\e9b5";
+}
+.ci-symbol:before {
+  content: "\e9b6";
+}
+.ci-syringe:before {
+  content: "\e9b7";
+}
+.ci-target:before {
+  content: "\e9b8";
+}
+.ci-tea:before {
+  content: "\e9b9";
+}
+.ci-teamwork:before {
+  content: "\e9ba";
+}
+.ci-telephone:before {
+  content: "\e9bb";
+}
+.ci-telescope:before {
+  content: "\e9bc";
+}
+.ci-test-tube:before {
+  content: "\e9bd";
+}
+.ci-tie:before {
+  content: "\e9be";
+}
+.ci-tooth:before {
+  content: "\e9bf";
+}
+.ci-towel:before {
+  content: "\e9c0";
+}
+.ci-transfer:before {
+  content: "\e9c1";
+}
+.ci-treatment:before {
+  content: "\e9c2";
+}
+.ci-tripadvisor-logotype:before {
+  content: "\e9c3";
+}
+.ci-trophy:before {
+  content: "\e9c4";
+}
+.ci-trophy-1:before {
+  content: "\e9c5";
+}
+.ci-twitter:before {
+  content: "\e9c6";
+}
+.ci-twitter-circular-button:before {
+  content: "\e9c7";
+}
+.ci-up-arrow:before {
+  content: "\e9c8";
+}
+.ci-user:before {
+  content: "\e9c9";
+}
+.ci-volume:before {
+  content: "\e9ca";
+}
+.ci-wallet:before {
+  content: "\e9cb";
+}
+.ci-warning:before {
+  content: "\e9cc";
+}
+.ci-wedding-rings:before {
+  content: "\e9cd";
+}
+.ci-weightlifter:before {
+  content: "\e9ce";
+}
+.ci-wheelchair:before {
+  content: "\e9cf";
+}
+.ci-wifi:before {
+  content: "\e9d0";
+}
+.ci-yin-yang:before {
+  content: "\e9d1";
+}
+.ci-yoga:before {
+  content: "\e9d2";
+}

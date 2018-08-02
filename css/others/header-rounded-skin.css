@@ -1,0 +1,30 @@
+    .navigation-landscape .nav-menu > li > a {
+        height: 35px;
+        margin: 18px 0 17px;
+        padding: 8px 15px;
+        border-radius: 20px
+    }
+
+    .navigation-landscape .nav-menu > li:hover > a,
+    .navigation-landscape .nav-menu > li.active > a,
+    .navigation-landscape .nav-menu > li.focus > a {
+        color: #fff;
+        background-color: #27ae60
+    }
+
+    .navigation-landscape .nav-menu > li:hover > a .submenu-indicator-chevron,
+    .navigation-landscape .nav-menu > li.active > a .submenu-indicator-chevron,
+    .navigation-landscape .nav-menu > li.focus > a .submenu-indicator-chevron {
+        border-color: transparent #fff #fff transparent
+    }
+
+    .nav-dropdown > li:hover > a,
+    .nav-dropdown > li.focus > a {
+        color: #fff;
+        background-color: #27ae60
+    }
+
+    .nav-dropdown > li:hover > a .submenu-indicator-chevron,
+    .nav-dropdown > li.focus > a .submenu-indicator-chevron {
+        border-color: transparent #fff #fff transparent
+    }

@@ -1,0 +1,37 @@
+/* Import Cookie | Open-Sans Fonts */
+
+@import url('https://fonts.googleapis.com/css?family=Cookie|Open+Sans:300,600,700');
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+a,
+a:hover,
+a:focus,
+a:active,
+li,
+ol {
+    font-family: 'Open Sans', sans-serif !important;
+}
+
+.cookie-fonts {
+    font-family: 'Cookie', cursive !important;
+    font-weight: 400;
+}
+
+.restaurant.section_heading h2 {
+    font-family: 'Cookie', cursive !important;
+    font-weight: 400;
+    font-size: 40px;
+    margin-bottom: 5px;
+}
+
+.restaurant_version .single_advisor_details_info > h4 {
+    font-family: "Cookie", cursive !important;
+    font-size: 30px;
+    text-transform: capitalize;
+}
